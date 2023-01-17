@@ -1,6 +1,6 @@
 # GameGuardian-Script-Maker v1.0
 
-This tool is the author's file path.
+The tool's output path matches the author's path.
 
 So, string path = @"C:\Users\jangw\Downloads\Output.lua"; in line 47 of Form1.cs. 
 
