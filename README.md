@@ -1,4 +1,4 @@
-# GameGuardian-Script-Maker
+# GameGuardian-Script-Maker v1.0
 
 1.The number of items that can be created is limited, so it is still incomplete.
 
